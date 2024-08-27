@@ -1,2 +1,2 @@
 # portfolio-web-
-user-friendly portfolio web
+not responsive only works on web
